@@ -1,0 +1,11 @@
+{
+  "name": "god-grace-cooking-services",
+  "version": "1.0.0",
+  "description": "Portfolio and booking website for God Grace Cooking Services, Lagos",
+  "private": true,
+  "scripts": {
+    "start": "npx --yes serve . -l 3000",
+    "dev": "npx --yes serve . -l 3000"
+  },
+  "license": "UNLICENSED"
+}
